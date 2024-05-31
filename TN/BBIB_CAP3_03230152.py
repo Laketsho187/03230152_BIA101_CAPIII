@@ -1,5 +1,5 @@
 ################################
-# Github Repo link: https://github.com/03230383/03230383_BIA101_B_CAP3
+# Github Repo link: https://github.com/Laketsho187/03230152_BIA101_CAPIII
 # Your Name: Lakezin Jamtsho
 # Your Section : B
 # Your Student ID Number: 03230152
